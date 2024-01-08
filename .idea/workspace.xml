@@ -5,31 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="acba6a59-1e87-41ba-acdf-9397ac26e224" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/material/.editorconfig" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/material/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/material/.vscode/extensions.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/material/.vscode/launch.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/material/.vscode/tasks.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/material/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/material/angular.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/material/package-lock.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/material/package.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/material/src/app/app.component.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/material/src/app/app.component.sass" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/material/src/app/app.component.spec.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/material/src/app/app.component.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/material/src/app/app.config.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/material/src/app/app.routes.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/material/src/assets/.gitkeep" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/material/src/favicon.ico" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/material/src/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/material/src/main.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/material/src/styles.sass" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/material/tsconfig.app.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/material/tsconfig.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/material/tsconfig.spec.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/material/src/app/app.component.ts" beforeDir="false" afterPath="$PROJECT_DIR$/material/src/app/app.component.ts" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -77,7 +54,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1704725672234</updated>
-      <workItem from="1704725674939" duration="828000" />
+      <workItem from="1704725674939" duration="964000" />
     </task>
     <servers />
   </component>

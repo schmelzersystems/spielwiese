@@ -1,8 +1,7 @@
 import { Component } from '@angular/core';
 import { CommonModule } from '@angular/common';
-import { RouterOutlet } from '@angular/router';
+import {RouterModule, RouterOutlet} from '@angular/router';
 import {MatButtonModule} from "@angular/material/button";
-import {BrowserModule} from "@angular/platform-browser";
 import {MatIconModule} from "@angular/material/icon";
 import {MatMenuModule} from "@angular/material/menu";
 import {MatDividerModule} from "@angular/material/divider";
@@ -15,7 +14,8 @@ import {MatDividerModule} from "@angular/material/divider";
     MatButtonModule,
     MatIconModule,
     MatMenuModule,
-    MatDividerModule
+    MatDividerModule,
+    RouterModule
   ],
   templateUrl: './app.component.html',
   styleUrl: './app.component.sass'
