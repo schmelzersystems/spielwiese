@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="acba6a59-1e87-41ba-acdf-9397ac26e224" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/material/.editorconfig" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/material/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/material/.vscode/extensions.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/material/.vscode/launch.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/material/.vscode/tasks.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/material/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/material/angular.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/material/package-lock.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/material/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/material/src/app/app.component.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/material/src/app/app.component.sass" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/material/src/app/app.component.spec.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/material/src/app/app.component.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/material/src/app/app.config.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/material/src/app/app.routes.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/material/src/assets/.gitkeep" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/material/src/favicon.ico" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/material/src/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/material/src/main.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/material/src/styles.sass" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/material/tsconfig.app.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/material/tsconfig.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/material/tsconfig.spec.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "customColor": "",
+  "associatedIndex": 4
+}]]></component>
+  <component name="ProjectId" id="2ag1zGk92wqVaXNXwdxMw3chu7L" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_ADD_EXTERNAL_FILES": "true",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "develop",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "ts.external.directory.path": "C:\\Code\\spielwiese\\material\\node_modules\\typescript\\lib",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="acba6a59-1e87-41ba-acdf-9397ac26e224" name="Changes" comment="" />
+      <created>1704725672234</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1704725672234</updated>
+      <workItem from="1704725674939" duration="828000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
+</project>
